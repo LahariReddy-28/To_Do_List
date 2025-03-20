@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.shivprakash.to_dolist'
+    namespace 'com.admalalahari.to_dolist'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.shivprakash.to_dolist"
+        applicationId "com.admalalahari.to_dolist"
         minSdk 24
         targetSdk 34
         versionCode 1
